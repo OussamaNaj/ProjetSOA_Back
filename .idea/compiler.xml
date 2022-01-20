@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin_manager" />
+        <module name="student_service" />
+        <module name="discovery_server" />
+        <module name="conf_service" />
+        <module name="config" />
+        <module name="book_service" />
+        <module name="gateway_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin_manager" target="17" />
+      <module name="book_service" target="17" />
+      <module name="conf_service" target="11" />
+      <module name="config" target="11" />
+      <module name="discovery_server" target="17" />
+      <module name="gateway" target="11" />
+      <module name="gateway_service" target="11" />
+      <module name="student_service" target="15" />
+      <module name="swagger_server" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin_manager" options="-parameters" />
+      <module name="book_service" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="discovery_server" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="gateway_service" options="-parameters" />
+      <module name="student_service" options="-parameters" />
+      <module name="swagger_server" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin_manager/admin_manager.iml" filepath="$PROJECT_DIR$/admin_manager/admin_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book_service/book_service.iml" filepath="$PROJECT_DIR$/book_service/book_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conf_service/conf_service.iml" filepath="$PROJECT_DIR$/conf_service/conf_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery_server/discovery_server.iml" filepath="$PROJECT_DIR$/discovery_server/discovery_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway_service/gateway_service.iml" filepath="$PROJECT_DIR$/gateway_service/gateway_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projetSOA.iml" filepath="$PROJECT_DIR$/.idea/projetSOA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student_service/student_service.iml" filepath="$PROJECT_DIR$/student_service/student_service.iml" />
+    </modules>
+  </component>
+</project>
